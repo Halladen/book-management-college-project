@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Science Fiction",
+    "publication year": 1932,
+    "price": 4.99
+  },
+  {
+    "title": "Catch 22",
+    "author": "Joseph Heller",
+    "genre": "Satire",
+    "publication year": 1961,
+    "price": 5.99
+  },
+  {
+    "title": "Do Androids Dream of Electric Sheep",
+    "author": "Philip K. Dick",
+    "genre": "Science Fiction",
+    "publication year": 1968,
+    "price": 13.99
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Science Fiction",
+    "publication year": 1953,
+    "price": 12.99
+  },
+  {
+    "title": "Something Happened",
+    "author": "Joseph Heller",
+    "genre": "Literary Novel",
+    "publication year": 1974,
+    "price": 5.99
+  },
+  {
+    "title": "The Face of Another",
+    "author": "Kobo Abe",
+    "genre": "Psychological Fiction",
+    "publication year": 1964,
+    "price": 11.99
+  },
+  {
+    "title": "The Man in the High Castle",
+    "author": "Philip K. Dick",
+    "genre": "Science Fiction",
+    "publication year": 1962,
+    "price": 4.99
+  },
+  {
+    "title": "The Man who Mistook His Wife for a Hat",
+    "author": "Oliver Sacks",
+    "genre": "Psychology",
+    "publication year": 1985,
+    "price": 6.99
+  },
+  {
+    "title": "Trainspotting",
+    "author": "Irvine Welsh",
+    "genre": "Fiction",
+    "publication year": 1993,
+    "price": 12.99
+  }
+]
